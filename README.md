@@ -1,4 +1,4 @@
-<h1 align="center">HiCiao 👋,mi chiamo Roberto Ricco</h1>
+<h1 align="center">Ciao 👋,mi chiamo Roberto Ricco</h1>
 <h3 align="center">Sviluppatore web | Full-stack | Front end | Back end</h3>
 
 - 👨‍💻 I miei progetti sono qui: [https://github.com/RobertoRicco91](https://github.com/RobertoRicco91)
